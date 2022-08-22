@@ -19,3 +19,5 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/todos>.
 
+## Preview
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Anshika-Srivastava/Todo_List_Elixir/blob/main/Preview/Elixir%20Todo%20List.mkv)
