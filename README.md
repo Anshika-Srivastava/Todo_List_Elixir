@@ -20,4 +20,6 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/todos>.
 
 ## Preview
-[![Watch the video]](https://github.com/Anshika-Srivastava/Todo_List_Elixir/blob/main/Preview/Elixir%20Todo%20List.mkv)
+
+https://user-images.githubusercontent.com/67851072/185879262-258d682c-d4d8-472c-9142-119703e151bc.mp4
+
